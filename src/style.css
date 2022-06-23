@@ -10,13 +10,13 @@
 }
 
 .group {
-  margin: 20px 0;
+  margin-top: 20px;
 }
 
 .group:first-of-type {
   margin-top: 0;
 }
 
-.button {
-  border-radius: 4px;
+.container {
+  margin-bottom: 10px;
 }
